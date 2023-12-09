@@ -1,1 +1,1 @@
-# goit-markup-hw-07
+# team-project-1-products
